@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>The service</h1>
+      <h1>Simple Serice </h1>
     </>
   );
 }
